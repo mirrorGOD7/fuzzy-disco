@@ -1,5 +1,5 @@
 @echo off
-title alianze STREAMER
+title MVP STREAMER
 color 0A
 cls
 
@@ -19,7 +19,7 @@ for /f "delims=" %%A in ('powershell -Command "(Invoke-WebRequest -UseBasicParsi
 
 :menu
 cls
-echo alianze STREAMER
+echo MVP STREAMER
 echo.
 echo [1] Defender Bypass
 echo [2] Clear Logs
